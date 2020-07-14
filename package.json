@@ -1,0 +1,12 @@
+{
+  "name": "restaurant2",
+  "version": "1.0.0",
+  "description": "Rate and add restuarant",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "camille",
+  "license": "ISC"
+}
